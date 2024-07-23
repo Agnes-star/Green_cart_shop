@@ -23,4 +23,3 @@ class TestPositiveScenarios:
                                                       "search!'])[1]").text
 
         assert error_message == "Sorry, no products matched your search!"
-        
